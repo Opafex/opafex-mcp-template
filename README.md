@@ -1,6 +1,6 @@
 # My MCP Server
 
-A [Model Context Protocol](https://modelcontextprotocol.io/) server built with [@intelagent/mcp-shared](https://github.com/opafex/Opafex-MCPs).
+A [Model Context Protocol](https://modelcontextprotocol.io/) server built with [@opafex/mcp-shared](https://github.com/opafex/Opafex-MCPs).
 
 ## Quick Start
 
