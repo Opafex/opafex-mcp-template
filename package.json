@@ -13,8 +13,8 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "@opafex/mcp-shared": "^1.0.0",
-    "@modelcontextprotocol/sdk": "^1.12.0"
+    "@opafex/mcp-shared": "^1.1.0",
+    "@modelcontextprotocol/sdk": "^1.27.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
